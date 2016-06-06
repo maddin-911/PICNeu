@@ -1,0 +1,68 @@
+﻿Build started 06.06.2016 02:59:19.
+     1>Project "C:\Users\marti_000\Documents\PICNeu\PicSimulator\PicSimulator\PicSimulator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D WIN32 /D _WINDOWS /D NDEBUG /D _UNICODE /D UNICODE /Gm- /EHsc /MT /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Release\PicSimulator.pch" /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MemoryControl.cpp PicSimulatorDlg.cpp
+         MemoryControl.cpp
+     1>MemoryControl.cpp(241): warning C4244: 'initializing' : conversion from 'double' to 'unsigned short', possible loss of data
+     1>MemoryControl.cpp(265): warning C4244: 'initializing' : conversion from 'double' to 'unsigned short', possible loss of data
+     1>MemoryControl.cpp(285): warning C4244: 'initializing' : conversion from 'double' to 'unsigned short', possible loss of data
+     1>MemoryControl.cpp(387): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(389): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(415): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(417): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(438): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(444): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>MemoryControl.cpp(507): warning C4244: 'return' : conversion from 'long' to 'unsigned short', possible loss of data
+     1>MemoryControl.cpp(609): warning C4244: 'initializing' : conversion from 'double' to 'unsigned short', possible loss of data
+         PicSimulatorDlg.cpp
+     1>PicSimulatorDlg.cpp(258): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>PicSimulatorDlg.cpp(260): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>PicSimulatorDlg.cpp(261): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>PicSimulatorDlg.cpp(262): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>PicSimulatorDlg.cpp(390): warning C4800: 'UINT' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(640): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(646): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(652): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(658): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(664): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(670): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(676): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(682): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(687): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(693): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(699): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(705): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(711): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(717): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(723): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(729): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(735): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(741): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(747): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(753): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(759): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(765): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(771): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(777): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(783): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(789): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(941): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>PicSimulatorDlg.cpp(965): warning C4800: 'UINT' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Release\PicSimulator.exe" /INCREMENTAL:NO /NOLOGO ws2_32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /PDB:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Release\PicSimulator.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Release\PicSimulator.lib" /MACHINE:X86 /SAFESEH Release\PicSimulator.res
+         Release\MemoryControl.obj
+         Release\PIC16F84.obj
+         Release\PicSimulator.obj
+         Release\PicSimulatorDlg.obj
+         Release\stdafx.obj
+         Generating code
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\memorycontrol.cpp(572): warning C4715: 'MemoryControl::getPrescalerRate' : not all control paths return a value
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\memorycontrol.cpp(317): warning C4715: 'MemoryControl::stackPop' : not all control paths return a value
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\pic16f84.cpp(799): warning C4715: 'PIC16F84::execInstruction' : not all control paths return a value
+         Finished generating code
+         PicSimulator.vcxproj -> C:\Users\marti_000\Documents\PICNeu\PicSimulator\Release\PicSimulator.exe
+     1>Done Building Project "C:\Users\marti_000\Documents\PICNeu\PicSimulator\PicSimulator\PicSimulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.98

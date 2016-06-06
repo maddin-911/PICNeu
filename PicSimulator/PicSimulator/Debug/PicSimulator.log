@@ -1,0 +1,51 @@
+﻿Build started 05.06.2016 23:07:03.
+     1>Project "C:\Users\marti_000\Documents\PICNeu\PicSimulator\PicSimulator\PicSimulator.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\PicSimulator.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PicSimulatorDlg.cpp
+         PicSimulatorDlg.cpp
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(258): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(260): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(261): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(262): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(390): warning C4800: 'UINT' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(639): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(645): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(651): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(657): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(663): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(669): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(675): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(681): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(686): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(692): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(698): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(704): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(710): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(716): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(722): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(728): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(734): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(740): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(746): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(752): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(758): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(764): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(770): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(776): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(782): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(788): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(940): warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+     1>c:\users\marti_000\documents\picneu\picsimulator\picsimulator\picsimulatordlg.cpp(964): warning C4800: 'UINT' : forcing value to bool 'true' or 'false' (performance warning)
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Debug\PicSimulator.exe" /INCREMENTAL /NOLOGO /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:"C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\Include\Manifest\dpiaware.manifest" /DEBUG /PDB:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Debug\PicSimulator.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\marti_000\Documents\PICNeu\PicSimulator\Debug\PicSimulator.lib" /MACHINE:X86 Debug\PicSimulator.res
+         Debug\MemoryControl.obj
+         Debug\PIC16F84.obj
+         Debug\PicSimulator.obj
+         Debug\PicSimulatorDlg.obj
+         Debug\stdafx.obj
+         PicSimulator.vcxproj -> C:\Users\marti_000\Documents\PICNeu\PicSimulator\Debug\PicSimulator.exe
+     1>Done Building Project "C:\Users\marti_000\Documents\PICNeu\PicSimulator\PicSimulator\PicSimulator.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.98
